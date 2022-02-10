@@ -50,6 +50,7 @@ var defaultChromeArgs = []string{
 	"--no-default-browser-check",
 	"--safebrowsing-disable-auto-update",
 	//"--enable-automation",
+	
 	"--password-store=basic",
 	"--use-mock-keychain",
 }
